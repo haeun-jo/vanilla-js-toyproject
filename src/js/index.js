@@ -1,1 +1,4 @@
-import '../css/style.css';
+import "../css/style.css";
+import { Keyboard } from "./keyboard";
+
+new Keyboard();
